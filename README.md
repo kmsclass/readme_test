@@ -1,4 +1,3 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevkgn%2Fguestbook.git&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a><br>
 <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=안녕하세요,%20구디아카데미입니다.&fontSize=50" /> <br>
 
 ## 보유 기술
